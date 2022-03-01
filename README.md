@@ -1,6 +1,5 @@
 # NBAPlayerOutlier
 Authors: 
-Shubhankar Naru
 Ahmed Salama
 
 Description: This program will detect the highest player efficiency rating based on other players stats in the league
